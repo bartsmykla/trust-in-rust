@@ -1,6 +1,6 @@
 [package]
-name = "handler"
+name = "trust-in-rust"
 version = "0.1.0"
-authors = ["Mark Sta Ana <booyaabooyaabooyaa@gmail.com>"]
+authors = ["Bart Smykla <bsmykla@vmware.com"]
 
 [dependencies]
