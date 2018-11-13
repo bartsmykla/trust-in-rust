@@ -1,0 +1,9 @@
+provider:
+  name: faas
+  gateway: https://gateway.smyk.la
+
+functions:
+  trust-in-rust:
+    lang: rust
+    handler: ./trust-in-rust
+    image: bartsmykla/trust-in-rust:0.1.0
